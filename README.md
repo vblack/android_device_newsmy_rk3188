@@ -1,0 +1,1 @@
+# android_device_newsmy_rk3188
