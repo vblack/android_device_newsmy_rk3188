@@ -1,1 +1,1 @@
-# android_device_newsmy_rk3188
+sudo apt install libxml2-utils maven lzop openjdk-8-jdk
